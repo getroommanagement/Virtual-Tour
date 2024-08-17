@@ -949,11 +949,11 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "B-26-3 Day",
+  "name": "C-26-3 Day",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
-    "fullscreenButton": true,
-    "viewControlButtons": true
+    "fullscreenButton": false,
+    "viewControlButtons": false
   }
 };
